@@ -1,3 +1,5 @@
+Part of minor programming at the UvA,  this is the final assignment for the course Programmeertheorie. For which we chose the case Rush Hour
+
 # Rush Hour
 
 ## Case explanation 
